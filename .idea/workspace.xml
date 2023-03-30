@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f778b189-0597-4357-9df7-32a6dd183247" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bnpp/bcefit/lafabrique/saison7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bnpp/bcefit/lafabrique/saison7/avengers/DivideUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bnpp/bcefit/lafabrique/saison7/avengers/Humanoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bnpp/bcefit/lafabrique/saison7/avengers/ListOfHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bnpp/bcefit/lafabrique/saison7/avengers/SuperHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AvengerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bnpp/bcefit/lafabrique/saison7/avengers/DivideUtilTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NgzF7f7gDxgMNf9JkIu1KfFThR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "C:/Users/steph/IdeaProjects/avengers/src/main/java/com/bnpp/bcefit/lafabrique/saison7/avengers",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bnpp.bcefit.lafabrique.saison7.avengers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DivideUtilTest.test_should_throw_exception_when_divide_by_zero">
+    <configuration name="AvengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avengers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AvengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvengerTest.should_thorAndThanos_have_noSuperHeroName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avengers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AvengerTest" />
+      <option name="METHOD_NAME" value="should_thorAndThanos_have_noSuperHeroName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvengerTest.test_should_ex7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avengers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AvengerTest" />
+      <option name="METHOD_NAME" value="test_should_ex7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideUtilTest.test_divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avengers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpp.bcefit.lafabrique.saison7.avengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpp.bcefit.lafabrique.saison7.avengers" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpp.bcefit.lafabrique.saison7.avengers.DivideUtilTest" />
+      <option name="METHOD_NAME" value="test_divide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideUtilTest.test_should_throw_exception_when_divide_by_zero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avengers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpp.bcefit.lafabrique.saison7.avengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bnpp.bcefit.lafabrique.saison7.avengers" />
+      <option name="MAIN_CLASS_NAME" value="com.bnpp.bcefit.lafabrique.saison7.avengers.DivideUtilTest" />
+      <option name="METHOD_NAME" value="test_should_throw_exception_when_divide_by_zero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DivideUtilTest.test_should_throw_exception_when_divide_by_zero" />
+        <item itemvalue="JUnit.DivideUtilTest.test_divide" />
+        <item itemvalue="JUnit.AvengerTest" />
+        <item itemvalue="JUnit.AvengerTest.test_should_ex7" />
+        <item itemvalue="JUnit.AvengerTest.should_thorAndThanos_have_noSuperHeroName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f778b189-0597-4357-9df7-32a6dd183247" name="Changes" comment="" />
+      <created>1680100407604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680100407604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.ThreadGroup" memberName="parent" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="t.threadLocals" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/avengers$AvengerTest.ic" NAME="AvengerTest Coverage Results" MODIFIED="1680163993190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/avengers$AvengerTest_should_blackWidow_beAnAvenger.ic" NAME="AvengerTest.should_blackWidow_beAnAvenger Coverage Results" MODIFIED="1680104374955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/avengers$AvengerTest_should_spiderman_estmineur.ic" NAME="AvengerTest.should_spiderman_estmineur Coverage Results" MODIFIED="1680102684692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
